@@ -1,6 +1,13 @@
 # JDK 1.8 源码解析
 
-## 基础222
+## 基础
+
+```sh
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Gliangquan/JDKSource1.8.git
+git push -u origin main
+```
 
 <a href="https://github.com/wupeixuan/JDKSourceCode1.8/blob/master/src/java/lang/String.java">String 源码</a>
 
